@@ -9,4 +9,5 @@
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050097 | Muhammad Ikhsan Nurhalim | https://github.com/ikhsannhlm/Object_Oriented_Programming |
 | 1217050098 | Muhammad Kemal Pasha | https://github.com/mkp-kemal/PBO/tree/main/TugasImplementasi |
+| 1217050054 | Fauzan | https://github.com/ojanaja/Pemrograman_Berbasis_Objek |
 
